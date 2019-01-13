@@ -8,9 +8,8 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
-import br.com.ConsultaConta.util.AppContext;
-import br.com.ConsultaConta.util.JSONRead;
-import br.com.ConsultaConta.util.ServicePath;
+import br.com.DesafioSantander.util.AppContext;
+import br.com.DesafioSantander.util.ServicePath;
 
 @SpringBootApplication
 public class Boot

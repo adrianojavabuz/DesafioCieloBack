@@ -1,4 +1,4 @@
-package br.com.ConsultaConta.util;
+package br.com.DesafioSantander.util;
 
 public final class ServicePath {
 

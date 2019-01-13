@@ -1,4 +1,4 @@
-package br.com.ConsultaConta.util;
+package br.com.DesafioSantander.util;
 
 import org.springframework.boot.web.servlet.FilterRegistrationBean;
 import org.springframework.context.annotation.Bean;
